@@ -1,3 +1,8 @@
+This project is a video lesson -> https://youtu.be/LyLa7dU5tp8
+Learn React Portal
+from youtube channel Web Dev Simplified -> https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
